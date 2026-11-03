@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Mother & Baby Care Ecosystem (মা ও শিশু সুরক্ষা ও কমিউনিটি)",
+  "description": "All-in-one platform for Bangladeshi mothers: EPI vaccine tracker (birth to 15m), mother's baby future savings bank, mothers' social community feed, WHO child growth & milestone tracker, baby weaning recipes & nutrition chart, emergency blood appeals, and milestone scrapbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
